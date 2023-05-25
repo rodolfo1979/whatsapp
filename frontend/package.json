@@ -16,7 +16,7 @@
     "formik-material-ui": "^3.0.1",
     "i18next": "^19.8.2",
     "i18next-browser-languagedetector": "^6.0.1",
-    "markdown-to-jsx": "^7.1.0",
+    "markdown-to-jsx": "^7.2.0",
     "material-ui-color": "^1.2.0",
     "mic-recorder-to-mp3": "^2.2.2",
     "moment": "^2.29.1",
